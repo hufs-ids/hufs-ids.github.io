@@ -7,7 +7,7 @@
     display: Proceeding of Very Large Database 2023 
   highlight: 0
 
-  - title: "SaS: SSD as SQL Database System"
+- title: "SaS: SSD as SQL Database System"
   image: dummy.png
   description: 
   authors: Jonghyeok Park, Soyee Choi, Gihwan Oh, and Sang-Won Lee (co-first author)
@@ -16,7 +16,7 @@
     display: Proceeding of Very Large Database 2021
   highlight: 0
 
-  - title: "Gather Interface for Freezing Pages in Flash Storage"
+- title: "Gather Interface for Freezing Pages in Flash Storage"
   image: dummy.png
   description: 
   authors: Jonghyeok Park, Soyee Choi, Gihwan Oh, and Sang-Won Lee (co-first author)
@@ -25,7 +25,7 @@
     display: IEEE Access 2021
   highlight: 0
 
-    - title: "SQL Statement Logging for Making SQLite Truly Lite"
+- title: "SQL Statement Logging for Making SQLite Truly Lite"
   image: dummy.png
   description: 
   authors: Jonghyeok Park, Gihwan Oh, and Sang-Won Lee
