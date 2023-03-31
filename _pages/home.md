@@ -33,7 +33,7 @@ Our research primarily revolves around the design of new intelligent database sy
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/VLDB2021.jpeg" alt="Slide 2" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/VLDB2023.jpeg" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/VLDB2023.png" alt="Slide 3" />
         </div>
 <!-- 
         <div class="item">
