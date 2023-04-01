@@ -1,8 +1,6 @@
 - name: Example
   photo: rock.jpg
-  info: Bache.ler student
+  info: Bacheler student
   email: example@hufs.ac.kr
   number_educ: 0
   education1:
-
-
