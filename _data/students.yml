@@ -1,6 +1,13 @@
 - name: Yunju Jo
   photo: yunjujo.jpg
-  info: Bacheler student
+  info: Undergraduate student
   email: cpis2@hufs.ac.kr
+  number_educ: 0
+  education1:
+
+  - name: <a href="https://brash-partner-0d2.notion.site/Hwang-Byeoung-Hoon-804f85fc028e4319b4a8896434a0e20f">Byeounghoon Hwang</a>
+  photo: bhh.png
+  info: Undergraduate student
+  email: h1009218@hufs.ac.kr
   number_educ: 0
   education1:
