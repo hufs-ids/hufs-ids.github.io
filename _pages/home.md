@@ -27,7 +27,7 @@ Our research primarily revolves around the design of new intelligent database sy
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/VLDB2023.png" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/VLDB2023.png" alt="Slide 1" />
         </div>
 <!-- 
         <div class="item">
