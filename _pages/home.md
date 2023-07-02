@@ -31,6 +31,7 @@ Our research primarily revolves around the design of new intelligent database sy
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/VLDB2023.png" alt="Slide 3" />
         </div>
     </div>
+    
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
     <span class="sr-only">Previous</span>
