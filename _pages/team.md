@@ -131,3 +131,12 @@ permalink: /team/
 {% if even_odd == 1 %}
 </div>
 {% endif %}
+
+## Former BSc student
+<div class="col-sm-12 clearfix">
+<h4>Bachelor Students</h4>
+{% for member in site.data.alumni_bsc %}
+{{ member.name }}
+<br>email: <{{ member.email }}></i>
+{% endfor %}
+</div>
