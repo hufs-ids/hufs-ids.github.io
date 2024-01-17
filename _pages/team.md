@@ -137,6 +137,6 @@ permalink: /team/
 <h4>Bachelor Students</h4>
 {% for member in site.data.alumni_bsc %}
 {{ member.name }}
-<br>email: <{{ member.email }}></i>
+<br>email: <{{ member.email }}>
 {% endfor %}
 </div>
