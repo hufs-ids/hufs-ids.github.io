@@ -1,3 +1,12 @@
+- title: "FlashAlloc: Dedicating Flash Blocks By Objects (to appear)"
+  image: dummy.png
+  description: 
+  authors: Jonghyeok Park, Soyee Choi, Gihwan Oh, Soojun Im, Moon-Wook Oh, and Sang-Won Lee
+  link:
+    url: http://ids.hufs.ac.kr/publications/
+    display: Proceeding of Very Large Database 2023
+  highlight: 0
+
 - title: "NV-SQL: Boosting OLTP Performance with Non-Volatile DIMMs"
   image: dummy.png
   description: 
