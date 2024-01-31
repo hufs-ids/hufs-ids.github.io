@@ -1,9 +1,9 @@
-- title: "FlashAlloc: Dedicating Flash Blocks By Objects (to appear)"
+- title: "FlashAlloc: Dedicating Flash Blocks By Objects"
   image: dummy.png
   description: 
   authors: Jonghyeok Park, Soyee Choi, Gihwan Oh, Soojun Im, Moon-Wook Oh, and Sang-Won Lee
   link:
-    url: http://ids.hufs.ac.kr/publications/
+    url: https://dl.acm.org/doi/abs/10.14778/3611479.3611524
     display: Proceeding of Very Large Database 2023
   highlight: 0
 
