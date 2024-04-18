@@ -25,3 +25,17 @@
   email: sarah1918@hufs.ac.kr
   number_educ: 0
   education1:
+
+- name: Yewon Shin
+  photo: yewon.png
+  info: Undergraduate student
+  email: syw22@hufs.ac.kr
+  number_educ: 0
+  education1:
+
+- name: Dohwan Lee
+  photo: dohwan.jpg
+  info: Undergraduate student
+  email: dohwan0123@hufs.ac.kr
+  number_educ: 0
+  education1:
