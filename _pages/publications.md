@@ -1,11 +1,10 @@
 ---
-title: "IDS Lab - Research"
+title: "IDS Lab - publications"
 layout: gridlay
-excerpt: "IDS Lab -- Research."
+excerpt: "IDS Lab -- publications."
 sitemap: false
-permalink: /research/
+permalink: /publications/
 ---
-
 
 # Publications
 
