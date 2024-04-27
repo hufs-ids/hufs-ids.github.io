@@ -6,7 +6,7 @@ sitemap: false
 permalink: /team/
 ---
 
-# Members
+# Team
 
 
 ## Advisor

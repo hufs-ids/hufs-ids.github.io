@@ -20,7 +20,7 @@ permalink: /research/
 {% for proj in site.data.projects %}
 
   {{ proj.title }} <br />
-  <em>{{ proj.department }} </em><br />{{ proj.link.date }}
+  <em>{{ proj.department }} </em><br />{{ proj.date }}
 
 {% endfor %}
 
