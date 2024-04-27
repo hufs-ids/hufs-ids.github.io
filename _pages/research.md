@@ -17,10 +17,10 @@ permalink: /research/
 
 # Projects
 
-{% for publi in site.data.publist %}
+{% for proj in site.data.projects %}
 
-  {{ publi.title }} <br />
-  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+  {{ proj.title }} <br />
+  <em>{{ proj.department }} </em><br />{{ proj.link.date }}
 
 {% endfor %}
 
