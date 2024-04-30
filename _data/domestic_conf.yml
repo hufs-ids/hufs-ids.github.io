@@ -1,0 +1,26 @@
+- title: "파일 단편화에 따른 DuckDB 성능 오버헤드 분석"
+  image: dummy.png
+  description: 
+  authors: Sehyun Park, Jiwon Ryu, Jisub Kim, and Jonghyeok Park
+  link:
+    url: https://www.dbsociety.kr/kdbc/kdbc2023/program.html
+    display: KDBC 2023
+  year: 2023
+
+- title: "플래시 메모리 환경에서 MySQL/InnoDB 체크포인트 쓰기 감소에 따른 성능 분석"
+  image: dummy.png
+  description: 
+  authors: Geunhyun Park, Kyong-Shik Lee, Jonghyeok Park, Young Ik Eom, and Sang-Won Lee
+  link:
+    url: https://www.dbsociety.kr/kdbc/kdbc2023/program.html
+    display: KDBC 2023
+  year: 2023
+
+- title: "락 경합에 의한 트랜잭션 대기 시간에 대한 연구"
+  image: dummy.png
+  description: 
+  authors: Hye-jin Yoo, Sung-jae Moon, Jonghyeok Park, Sang-won Lee, and Young-ik Eom
+  link:
+    url: https://www.dbpia.co.kr/journal/voisDetail?voisId=VOIS00742476
+    display: KSC 2023
+  year: 2023

@@ -16,6 +16,24 @@
     display: Proceeding of Very Large Database 2023 
   highlight: 0
 
+- title: "ES4D: Accelerating Exact Similarity Search for High-Dimensional Vectors via Vector Slicing and In-SSD Computation"
+  image: dummy.png
+  description: 
+  authors: Juhwan Kim, Jongseon Seo, Jonghyeok Park, Sang-Won Lee, Hongchan Roh, and Hyungmin Cho
+  link:
+    url: https://ieeexplore.ieee.org/abstract/document/9978526
+    display:  ICCD 2022
+  highlight: 0
+
+- title: "When F2FS meets address remapping"
+  image: dummy.png
+  description: 
+  authors: Yongmyung Lee, Jong-Hyeok Park, Jonggyu Park, Hyunho Gwak, Dongkun Shin, Young Ik Eom, and Sang-Won Lee
+  link:
+    url: https://dl.acm.org/doi/abs/10.1145/3538643.3539755
+    display: HotStorage 2022
+  highlight: 0
+
 - title: "SaS: SSD as SQL Database System"
   image: dummy.png
   description: 

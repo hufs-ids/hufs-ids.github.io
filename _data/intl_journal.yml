@@ -1,0 +1,26 @@
+- title: "ESL: A High-Performance Skiplist with Express Lane"
+  image: dummy.png
+  description: 
+  authors: Yedam Na, Bonmoo Koo,Taeyoon Park, Jonghyeok Park, and Wook-Hee Kim
+  link:
+    url: https://www.mdpi.com/2076-3417/13/17/9925
+    display: MDPI Appl. Sci. 2023
+  year: 2023
+
+- title: "Converting Concurrent Range Index Structure to Range Index Structure for Disaggregated Memory"
+  image: dummy.png
+  description: 
+  authors: Bonmoo Koo, Jaesang Hwang, Jonghyeok Park, and Wook-Hee Kim
+  link:
+    url: hhttps://www.mdpi.com/2076-3417/13/20/11130
+    display: MDPI Appl. Sci. 2023
+  year: 2023
+
+- title: "Gather Interface for Freezing Pages in Flash Storage"
+  image: dummy.png
+  description: 
+  authors: Jonghyeok Park, Soyee Choi, Gihwan Oh, and Sang-Won Lee
+  link:
+    url: https://ieeexplore.ieee.org/document/9486867
+    display: IEEE Access 2021
+  year: 2021
