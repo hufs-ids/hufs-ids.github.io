@@ -132,9 +132,10 @@ permalink: /team/
 </div>
 {% endif %}
 
-## Former BSc student
+
+### Former BSc student
 <div class="col-sm-12 clearfix">
-<h4>Bachelor Students</h4>
+<h3>Bachelor Students</h3>
 {% for member in site.data.alumni_bsc %}
 {{ member.name }}
 <br>email: <{{ member.email }}>
