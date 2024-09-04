@@ -6,8 +6,9 @@ sitemap: false
 permalink: /
 ---
 
-We are a Intelligent Database System Lab at [Hankuk University of Foreign Studies](https://www.hufs.ac.kr/).
-Our research primarily revolves around the design of new intelligent database systems including (1) NVM (Non-Volatile Memory)-aware Database systems, (2) Flash-based Database systems, and (3) In-Storage computing.
+Welcome! 
+We are moved to <a href="dbs.korea.ac.kr"> Database Systems Lab </a> at Korea University.
+
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
